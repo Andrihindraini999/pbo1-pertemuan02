@@ -1,4 +1,4 @@
-import java.until.Scanner;
+import java.util.Scanner;
 
 public class InputOuput{
  public static void main(String [] args){
@@ -6,7 +6,7 @@ public class InputOuput{
   String nama;
   System.out.print("Masukkan nama anda: ");
   nama = scanner.nextLine();
-  System.out.println ("Hai, "+nama);
+  System.out.println("Hai, "+nama);
 
 }
 }
